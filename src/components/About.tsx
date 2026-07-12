@@ -12,9 +12,8 @@ function About() {
       viewport={{ once: true }}
     >
       <h1 className="text-2xl sm:text-4xl font-bold mb-2">
-        About
-        <span className="underline underline-offset-4 decoration-1 under font-light">
-          Our Brand
+        About <span className="underline underline-offset-4 decoration-1 under font-light">
+            Our Brand
         </span>
       </h1>
       <p className="text-grey-500 max-w-80 text-center mb-8">
@@ -47,12 +46,10 @@ function About() {
           </div>
 
           <p className="my-10 max-w-lg">
-            We are looking for a skilled Web Developer to design, build, and
-            maintain websites and web applications that are fast, reliable, and
-            easy to use. You will work closely with designers, product managers,
-            and other engineers to turn ideas into high-quality digital
-            products, from initial concept through deployment and ongoing
-            support.
+            We design and build modern spaces that redefine contemporary living and urban landscapes.
+             By combining sustainable construction practices with sophisticated design, we bring ambitious architectural concepts to life.
+              Our focus remains on creating vibrant, reliable environments that inspire communities 
+              and provide lasting value for generations to come.
           </p>
           <button className="bg-blue-600 text-white px-8 py-2 rounded">
             Learn more

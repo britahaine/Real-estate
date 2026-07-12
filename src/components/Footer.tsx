@@ -10,12 +10,8 @@ const Footer = () => {
         <div className="w-full md:w-1/3 mb-8 md:mb-0">
           <img src={assets.logo_dark} alt="" />
           <p className="text-gray-400 mt-4">
-            We are looking for a skilled Web Developer to design, build, and
-            maintain websites and web applications that are fast, reliable, and
-            easy to use. You will work closely with designers, product managers,
-            and other engineers to turn ideas into high-quality digital
-            products, from initial concept through deployment and ongoing
-            support.
+           Dedicated to your vision.
+            We build and manage high-quality properties designed to inspire modern living and deliver lasting value.
           </p>
         </div>
 

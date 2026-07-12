@@ -20,7 +20,7 @@ const Header = () => {
         </h2>
 
         <div className="space-x-8 mt-16">
-          <a href="#projects" className="border border-white px-8 py-3">
+          <a href="#Project" className="border border-white px-8 py-3">
             Projects
           </a>
 

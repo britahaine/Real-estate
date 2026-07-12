@@ -39,8 +39,7 @@ const Contact = () => {
       className="text-center p-6 py-20 lg:px-32 w-full overflow-hidden" id="contact"
     >
  <h1 className="text-2xl sm:text-4xl font-bold mb-2 text-center">
-        Contact
-        <span className="underline underline-offset-4 decoration-1 under font-light">
+        Contact <span className="underline underline-offset-4 decoration-1 under font-light">
           With Us
         </span>
       </h1>
