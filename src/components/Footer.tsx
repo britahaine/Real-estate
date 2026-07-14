@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="w-full md:w-1/3 mb-8 md:mb-0">
           <img src={assets.logo_dark} alt="" />
           <p className="text-gray-400 mt-4">
-           Dedicated to your vision.
+           Dedicated to your architectual  vision.
             We build and manage high-quality properties designed to inspire modern living and deliver lasting value.
           </p>
         </div>
